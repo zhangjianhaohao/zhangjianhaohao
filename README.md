@@ -1,5 +1,7 @@
-## Hi there 👋
- <img src="https://github-readme-stats.vercel.app/api?username=HIM198&hide=issues&title_color=333&text_color=777" alt="zhangjianhaohao's Stats" >
+## Hi there 👋<!-- 现成年轻化 GitHub 封面 -->
+<p align="center">
+  <img src="https://picsum.photos/id/180/1280/640" alt="青春科技风封面" width="100%" style="border-radius: 12px; border: 2px solid #61DAFB;" />
+</p>
 <!--
 **zhangjianhaohao/zhangjianhaohao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
